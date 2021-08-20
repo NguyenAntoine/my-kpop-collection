@@ -1,9 +1,9 @@
-import { Injectable } from "@nestjs/common";
-import { InjectModel } from "@nestjs/mongoose";
-import { Band, BandDocument } from "../schemas/band.schema";
-import { Model } from "mongoose";
-import { CreateBandDto } from "../dto/create-band.dto";
-import { UpdateBandDto } from "../dto/update-band.dto";
+import { Injectable } from '@nestjs/common';
+import { InjectModel } from '@nestjs/mongoose';
+import { Band, BandDocument } from '../schemas/band.schema';
+import { Model } from 'mongoose';
+import { CreateBandDto } from '../dto/create-band.dto';
+import { UpdateBandDto } from '../dto/update-band.dto';
 
 @Injectable()
 export class BandsService {

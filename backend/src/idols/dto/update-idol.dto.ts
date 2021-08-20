@@ -4,4 +4,5 @@ export class UpdateIdolDto {
   readonly koreanName: string;
   readonly koreanStageName: string;
   readonly dateOfBirth: Date;
+  readonly gender: string;
 }

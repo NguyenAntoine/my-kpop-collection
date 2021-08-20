@@ -19,6 +19,9 @@ export class Idol {
 
   @Prop()
   dateOfBirth: Date;
+
+  @Prop()
+  gender: string;
 }
 
 export const IdolSchema = SchemaFactory.createForClass(Idol);

@@ -1,0 +1,1218 @@
+[
+  {
+    "name": "(G)I-DLE",
+    "koreanName": "(여자)아이들",
+    "dateOfDebut": "02/05/2018",
+    "company": "Cube",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "15&",
+    "koreanName": "피프틴앤드",
+    "dateOfDebut": "05/10/2012",
+    "company": "JYP",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "2EYES",
+    "koreanName": "투아이즈",
+    "dateOfDebut": "20/07/2013",
+    "company": "SidusHQ",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "2NE1",
+    "koreanName": "투애니원",
+    "dateOfDebut": "06/05/2009",
+    "company": "YG",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "3YE",
+    "koreanName": "써드아이",
+    "dateOfDebut": "21/05/2019",
+    "company": "GH",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "4Minute",
+    "koreanName": "포미닛",
+    "dateOfDebut": "15/06/2009",
+    "company": "Cube",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "4TEN",
+    "koreanName": "포텐",
+    "dateOfDebut": "26/08/2014",
+    "company": "Jungle",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "9Muses",
+    "koreanName": "나인뮤지스",
+    "dateOfDebut": "12/08/2010",
+    "company": "Star Empire",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "A.DE",
+    "koreanName": "에이디이",
+    "dateOfDebut": "23/07/2016",
+    "company": "2ABLE",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "ABRY",
+    "koreanName": "에이브리",
+    "dateOfDebut": "15/11/2017",
+    "company": "withHC",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "After School",
+    "koreanName": "애프터스쿨",
+    "dateOfDebut": "15/01/2009",
+    "company": "Pledis",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "AiRiSu",
+    "koreanName": "아이리수",
+    "dateOfDebut": "25/07/2018",
+    "company": "Jang",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "ANS",
+    "koreanName": "에이엔에스",
+    "dateOfDebut": "16/09/2019",
+    "company": "ANS",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "AOA",
+    "koreanName": "에이오에이",
+    "dateOfDebut": "30/07/2012",
+    "company": "FNC",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Apink",
+    "koreanName": "에이핑크",
+    "dateOfDebut": "19/04/2011",
+    "company": "Plan A",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Apple.B",
+    "koreanName": "애플비",
+    "dateOfDebut": "01/08/2017",
+    "company": "GH",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "April",
+    "koreanName": "에이프릴",
+    "dateOfDebut": "24/08/2015",
+    "company": "DSP",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Ariaz",
+    "koreanName": "아리아즈",
+    "dateOfDebut": "23/10/2019",
+    "company": "Rising Star",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Baby V.O.X",
+    "koreanName": "베이비복스",
+    "dateOfDebut": "05/07/1997",
+    "company": "DR Music",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Badkiz",
+    "koreanName": "배드키즈",
+    "dateOfDebut": "24/03/2014",
+    "company": "Zoo",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Berry Good",
+    "koreanName": "베리굿",
+    "dateOfDebut": "21/05/2014",
+    "company": "Asia Bridge",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "BESTie",
+    "koreanName": "베스티",
+    "dateOfDebut": "11/07/2013",
+    "company": "YNB",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "BLACKPINK",
+    "koreanName": "블랙핑크",
+    "dateOfDebut": "08/08/2016",
+    "company": "YG",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Blady",
+    "koreanName": "블레이디",
+    "dateOfDebut": "16/05/2011",
+    "company": "Star Planet",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Bloomy",
+    "koreanName": "블루미",
+    "dateOfDebut": "01/02/2016",
+    "company": "DS",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Bob Girls",
+    "koreanName": "단발머리",
+    "dateOfDebut": "10/06/2014",
+    "company": "Chrome",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Bolbbalgan4",
+    "koreanName": "볼빨간사춘기",
+    "dateOfDebut": "22/04/2016",
+    "company": "Shofar",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Bonus Baby",
+    "koreanName": "보너스베이비",
+    "dateOfDebut": "01/01/2017",
+    "company": "Maroo",
+    "active": "Hiatus",
+    "gender": "F"
+  },
+  {
+    "name": "Brave Girls",
+    "koreanName": "브레이브걸스",
+    "dateOfDebut": "31/03/2011",
+    "company": "Brave",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Brown Eyed Girls",
+    "koreanName": "브라운 아이드 걸스",
+    "dateOfDebut": "02/03/2006",
+    "company": "Mystic",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Bulldok",
+    "koreanName": "불독",
+    "dateOfDebut": "20/10/2016",
+    "company": "Kconic",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Busters",
+    "koreanName": "버스터즈",
+    "dateOfDebut": "27/11/2017",
+    "company": "JTG",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "BVNDIT",
+    "koreanName": "밴디트",
+    "dateOfDebut": "10/04/2019",
+    "company": "MNH",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "C-REAL",
+    "koreanName": "씨리얼",
+    "dateOfDebut": "11/10/2011",
+    "company": "NAP",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Camila",
+    "koreanName": "카밀라",
+    "dateOfDebut": "29/08/2018",
+    "company": "Camila",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Cherry Bullet",
+    "koreanName": "체리블렛",
+    "dateOfDebut": "21/01/2019",
+    "company": "FNC",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Cherry On Top",
+    "koreanName": "체리온탑",
+    "dateOfDebut": "09/08/2018",
+    "company": "United",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "ChoColat",
+    "koreanName": "쇼콜라",
+    "dateOfDebut": "16/08/2011",
+    "company": "Paramount",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "cignature",
+    "koreanName": "시그니처",
+    "dateOfDebut": "04/02/2020",
+    "company": "C9",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "CLC",
+    "koreanName": "씨엘씨",
+    "dateOfDebut": "18/03/2015",
+    "company": "Cube",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "CoCoSoRi",
+    "koreanName": "코코소리",
+    "dateOfDebut": "05/01/2016",
+    "company": "MOLE",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Crayon Pop",
+    "koreanName": "크레용팝",
+    "dateOfDebut": "17/07/2012",
+    "company": "Chrome",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "D-Unit",
+    "koreanName": "디유닛",
+    "dateOfDebut": "01/08/2012",
+    "company": "D-Business",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "D.Holic",
+    "koreanName": "디홀릭",
+    "dateOfDebut": "29/10/2014",
+    "company": "H.Mate",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Dal Shabet",
+    "koreanName": "달샤벳",
+    "dateOfDebut": "03/01/2011",
+    "company": "Happy Face",
+    "active": "Hiatus",
+    "gender": "F"
+  },
+  {
+    "name": "Davichi",
+    "koreanName": "다비치",
+    "dateOfDebut": "04/02/2008",
+    "company": "CJ E&M",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Destiny",
+    "koreanName": "데스티니",
+    "dateOfDebut": "28/09/2018",
+    "company": "D-SIDE",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "DIA",
+    "koreanName": "다이아",
+    "dateOfDebut": "14/07/2015",
+    "company": "MBK",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Dorothy",
+    "koreanName": "도로시",
+    "dateOfDebut": "16/08/2016",
+    "company": "Leek Mill",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "DreamCatcher",
+    "koreanName": "드림캐쳐",
+    "dateOfDebut": "13/01/2017",
+    "company": "Happy Face",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Dreamnote",
+    "koreanName": "드림노트",
+    "dateOfDebut": "07/11/2018",
+    "company": "iME",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "ELRIS",
+    "koreanName": "엘리스",
+    "dateOfDebut": "01/07/2017",
+    "company": "Hunus",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Episode",
+    "koreanName": "에피소드",
+    "dateOfDebut": "04/02/2020",
+    "company": "Pops",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Everglow",
+    "koreanName": "에버글로우",
+    "dateOfDebut": "18/03/2019",
+    "company": "Yuehua",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "EvoL",
+    "koreanName": "이블",
+    "dateOfDebut": "10/08/2012",
+    "company": "Stardom",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "EXID",
+    "koreanName": "이엑스아이디",
+    "dateOfDebut": "16/02/2012",
+    "company": "Yedang",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "f(x)",
+    "koreanName": "에프엑스",
+    "dateOfDebut": "24/08/2009",
+    "company": "SM",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "F-ve Dolls",
+    "koreanName": "파이브돌스",
+    "dateOfDebut": "20/01/2011",
+    "company": "MBK",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Favorite",
+    "koreanName": "페이버릿",
+    "dateOfDebut": "05/07/2017",
+    "company": "Astory",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Fiestar",
+    "koreanName": "피에스타",
+    "dateOfDebut": "31/08/2012",
+    "company": "LOEN",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "FLAVOR",
+    "koreanName": "플레이버",
+    "dateOfDebut": "26/11/2018",
+    "company": "FENT",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "fromis_9",
+    "koreanName": "프로미스나인",
+    "dateOfDebut": "24/01/2018",
+    "company": "Stone",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Gavy NJ",
+    "koreanName": "가비엔제이",
+    "dateOfDebut": "11/11/2005",
+    "company": "Good Fellas",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Gawi Bawi Bo",
+    "koreanName": "지비비",
+    "dateOfDebut": "01/05/2018",
+    "company": "LOUDers",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "GeeGu",
+    "koreanName": "지구",
+    "dateOfDebut": "26/10/2017",
+    "company": "NOS",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Gfriend",
+    "koreanName": "여자친구",
+    "dateOfDebut": "15/01/2015",
+    "company": "Source",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "GI",
+    "koreanName": "지아이",
+    "dateOfDebut": "03/04/2013",
+    "company": "Simtong",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Girl's Day",
+    "koreanName": "걸스데이",
+    "dateOfDebut": "07/07/2010",
+    "company": "DreamT",
+    "active": "Hiatus",
+    "gender": "F"
+  },
+  {
+    "name": "Girlkind",
+    "koreanName": "걸카인드",
+    "dateOfDebut": "16/01/2018",
+    "company": "Nextlevel",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Girls Girls",
+    "koreanName": "여자여자",
+    "dateOfDebut": "09/12/2015",
+    "company": "H Brothers",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Girls' Alert",
+    "koreanName": "소녀주의보",
+    "dateOfDebut": "25/05/2017",
+    "company": "Roots",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Girls' Generation",
+    "koreanName": "소녀시대",
+    "dateOfDebut": "05/08/2007",
+    "company": "SM",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "GLAM",
+    "koreanName": "글램",
+    "dateOfDebut": "16/07/2012",
+    "company": "Big Hit",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Good Day",
+    "koreanName": "굿데이",
+    "dateOfDebut": "30/08/2017",
+    "company": "C9",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "GP Basic",
+    "koreanName": "지피 베이직",
+    "dateOfDebut": "18/03/2011",
+    "company": "Jacyhan",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Greyish",
+    "koreanName": "그레이시",
+    "dateOfDebut": "01/06/2017",
+    "company": "Elijah",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Gugudan",
+    "koreanName": "구구단",
+    "dateOfDebut": "28/06/2016",
+    "company": "Jellyfish",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "GWSN",
+    "koreanName": "공원소녀",
+    "dateOfDebut": "05/09/2018",
+    "company": "Kiwi Pop",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "H.U.B",
+    "koreanName": "허브",
+    "dateOfDebut": "09/02/2017",
+    "company": "New Planet",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Hash Tag",
+    "koreanName": "해시태그",
+    "dateOfDebut": "11/10/2017",
+    "company": "LUK",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Hello Venus",
+    "koreanName": "헬로비너스",
+    "dateOfDebut": "09/05/2012",
+    "company": "Fantagio",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Heygirls",
+    "koreanName": "헤이걸스",
+    "dateOfDebut": "20/11/2017",
+    "company": "Moai",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Hi Cutie",
+    "koreanName": "하이큐티",
+    "dateOfDebut": "12/10/2017",
+    "company": "Space",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "HighSchool",
+    "koreanName": "여고생",
+    "dateOfDebut": "30/04/2019",
+    "company": "Richworld",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Highteen",
+    "koreanName": "하이틴",
+    "dateOfDebut": "14/10/2016",
+    "company": "Elijah",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Hinapia",
+    "koreanName": "희나피아",
+    "dateOfDebut": "03/11/2019",
+    "company": "Alseulbit",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Hint",
+    "koreanName": "힌트",
+    "dateOfDebut": "31/03/2017",
+    "company": "Starpro",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Honey Popcorn",
+    "koreanName": "허니팝콘",
+    "dateOfDebut": "21/03/2018",
+    "company": "Kyun Create",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "I.C.E",
+    "koreanName": "아이스",
+    "dateOfDebut": "16/11/2015",
+    "company": "HS",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "ITZY",
+    "koreanName": "있지",
+    "dateOfDebut": "12/02/2019",
+    "company": "JYP",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "IZ*ONE",
+    "koreanName": "아이즈원",
+    "dateOfDebut": "29/10/2018",
+    "company": "Off The Record",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Jewelry",
+    "koreanName": "쥬얼리",
+    "dateOfDebut": "30/03/2001",
+    "company": "Star Empire",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "KARA",
+    "koreanName": "카라",
+    "dateOfDebut": "29/03/2007",
+    "company": "DSP",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "KHAN",
+    "koreanName": "칸",
+    "dateOfDebut": "23/05/2018",
+    "company": "Maroo",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Kitten Girls",
+    "koreanName": "키튼걸스",
+    "dateOfDebut": "04/09/2018",
+    "company": "Wannabe",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Laboum",
+    "koreanName": "라붐",
+    "dateOfDebut": "27/08/2014",
+    "company": "NH",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Ladies' Code",
+    "koreanName": "레이디스 코드",
+    "dateOfDebut": "07/03/2013",
+    "company": "Polaris",
+    "active": "Hiatus",
+    "gender": "F"
+  },
+  {
+    "name": "LipBubble",
+    "koreanName": "립버블",
+    "dateOfDebut": "22/03/2017",
+    "company": "Zenith",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Loona",
+    "koreanName": "이달의 소녀",
+    "dateOfDebut": "04/10/2016",
+    "company": "Blockberry",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Lovelyz",
+    "koreanName": "러블리즈",
+    "dateOfDebut": "17/11/2014",
+    "company": "Woollim",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Lusty",
+    "koreanName": "러스티",
+    "dateOfDebut": "26/06/2019",
+    "company": "babaplay",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Mamamoo",
+    "koreanName": "마마무",
+    "dateOfDebut": "18/06/2014",
+    "company": "RBW",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Marmello",
+    "koreanName": "마르멜로",
+    "dateOfDebut": "24/05/2017",
+    "company": "Rolling",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Matilda",
+    "koreanName": "마틸다",
+    "dateOfDebut": "18/03/2016",
+    "company": "Box",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Melody Day",
+    "koreanName": "멜로디데이",
+    "dateOfDebut": "25/02/2014",
+    "company": "Cre.Ker",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Minx",
+    "koreanName": "밍스",
+    "dateOfDebut": "18/09/2014",
+    "company": "Happy Face",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "miss A",
+    "koreanName": "미쓰에이",
+    "dateOfDebut": "01/07/2010",
+    "company": "JYP",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Mixx",
+    "koreanName": "믹스",
+    "dateOfDebut": "02/05/2016",
+    "company": "Chiko",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Momoland",
+    "koreanName": "모모랜드",
+    "dateOfDebut": "09/11/2016",
+    "company": "Double Kick",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "myB",
+    "koreanName": "마이비",
+    "dateOfDebut": "25/08/2015",
+    "company": "Maroo",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Nature",
+    "koreanName": "네이처",
+    "dateOfDebut": "03/08/2018",
+    "company": "n.CH",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "O21",
+    "koreanName": "오투원",
+    "dateOfDebut": "21/06/2016",
+    "company": "Houxiu",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Oh My Girl",
+    "koreanName": "오마이걸",
+    "dateOfDebut": "21/04/2015",
+    "company": "WM",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "OhBliss",
+    "koreanName": "오블리스",
+    "dateOfDebut": "17/10/2016",
+    "company": "JT Corea",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "P.O.P",
+    "koreanName": "피오피",
+    "dateOfDebut": "26/07/2017",
+    "company": "DWM",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Pink Fantasy",
+    "koreanName": "핑크판타지",
+    "dateOfDebut": "28/10/2018",
+    "company": "My Doll",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Playback",
+    "koreanName": "플레이백",
+    "dateOfDebut": "25/06/2015",
+    "company": "Coridel",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Pristin",
+    "koreanName": "프리스틴",
+    "dateOfDebut": "21/03/2017",
+    "company": "Pledis",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Pungdeng-E",
+    "koreanName": "풍뎅이",
+    "dateOfDebut": "11/12/2013",
+    "company": "DOMA",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "PURPLEBECK",
+    "koreanName": "퍼플백",
+    "dateOfDebut": "24/06/2019",
+    "company": "Majesty",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Rainbow",
+    "koreanName": "레인보우",
+    "dateOfDebut": "12/08/2010",
+    "company": "DSP",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Rania",
+    "koreanName": "라니아",
+    "dateOfDebut": "06/04/2011",
+    "company": "DR",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Red Velvet",
+    "koreanName": "레드벨벳",
+    "dateOfDebut": "01/08/2014",
+    "company": "SM",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Rockit Girl",
+    "koreanName": "락킷걸",
+    "dateOfDebut": "30/05/2019",
+    "company": "Rolling",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Rose Finger",
+    "koreanName": "로즈핑거",
+    "dateOfDebut": "03/10/2018",
+    "company": "YC:Bros",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Rubber Soul",
+    "koreanName": "러버소울",
+    "dateOfDebut": "10/02/2015",
+    "company": "Happy Tribe",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "S.E.S",
+    "koreanName": "에스.이.에스",
+    "dateOfDebut": "01/11/1997",
+    "company": "SM",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "S.I.S",
+    "koreanName": "에스아이에스",
+    "dateOfDebut": "25/08/2017",
+    "company": "Double X",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Saturday",
+    "koreanName": "세러데이",
+    "dateOfDebut": "18/07/2018",
+    "company": "SD",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "SECRET",
+    "koreanName": "시크릿",
+    "dateOfDebut": "13/10/2009",
+    "company": "TS",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Sha Sha",
+    "koreanName": "샤샤",
+    "dateOfDebut": "27/02/2018",
+    "company": "Major Ent",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "SISTAR",
+    "koreanName": "씨스타",
+    "dateOfDebut": "09/08/2011",
+    "company": "Starship",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Sonamoo",
+    "koreanName": "소나무",
+    "dateOfDebut": "29/12/2014",
+    "company": "TS",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "SPICA",
+    "koreanName": "스피카",
+    "dateOfDebut": "07/02/2012",
+    "company": "CJ E&M",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Stellar",
+    "koreanName": "스텔라",
+    "dateOfDebut": "28/08/2011",
+    "company": "Pascal",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Sunny Hill",
+    "koreanName": "써니힐",
+    "dateOfDebut": "20/09/2007",
+    "company": "Nega",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "T-ara",
+    "koreanName": "티아라",
+    "dateOfDebut": "29/07/2009",
+    "company": "MBK",
+    "active": "Hiatus",
+    "gender": "F"
+  },
+  {
+    "name": "Tahiti",
+    "koreanName": "타히티",
+    "dateOfDebut": "23/06/2012",
+    "company": "J-line",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "The Grace",
+    "koreanName": "천상지희",
+    "dateOfDebut": "29/04/2005",
+    "company": "SM",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Tiny-G",
+    "koreanName": "타이니지",
+    "dateOfDebut": "23/08/2012",
+    "company": "GNG",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "TWICE",
+    "koreanName": "트와이스",
+    "dateOfDebut": "20/10/2015",
+    "company": "JYP",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Two X",
+    "koreanName": "투엑스",
+    "dateOfDebut": "20/08/2012",
+    "company": "J. Tune",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Uni.T",
+    "koreanName": "유니티",
+    "dateOfDebut": "18/05/2018",
+    "company": "Unit Culture",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Unicorn",
+    "koreanName": "유니콘",
+    "dateOfDebut": "03/09/2015",
+    "company": "Cartoon Blue",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Wable",
+    "koreanName": "와블",
+    "dateOfDebut": "17/02/2016",
+    "company": "Kiwi",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Wanna.B",
+    "koreanName": "워너비",
+    "dateOfDebut": "17/11/2014",
+    "company": "Zenith",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Wassup",
+    "koreanName": "와썹",
+    "dateOfDebut": "07/08/2013",
+    "company": "Mafia",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "We Girls",
+    "koreanName": "위걸스",
+    "dateOfDebut": "31/08/2018",
+    "company": "Afternoon",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Weki Meki",
+    "koreanName": "위키미키",
+    "dateOfDebut": "08/08/2017",
+    "company": "Fantagio",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "WJSN",
+    "koreanName": "우주소녀",
+    "dateOfDebut": "25/02/2016",
+    "company": "Starship",
+    "active": "Yes",
+    "gender": "F"
+  },
+  {
+    "name": "Wonder Girls",
+    "koreanName": "원더걸스",
+    "dateOfDebut": "13/02/2007",
+    "company": "JYP",
+    "active": "No",
+    "gender": "F"
+  },
+  {
+    "name": "Yellow Bee",
+    "koreanName": "옐로비",
+    "dateOfDebut": "23/11/2017",
+    "company": "Addiction",
+    "active": "Yes",
+    "gender": "F"
+  }
+]

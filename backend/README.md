@@ -20,6 +20,15 @@ $ npm run start:dev
 
 # production mode
 $ npm run start:prod
+
+# add a migration
+$ npm run migrate:create -- <migration name>
+
+# up a migration
+$ npm run migrate:up -- <migration name>
+
+# down a migration
+$ npm run migrate:down -- <migration name>
 ```
 
 ## Test
