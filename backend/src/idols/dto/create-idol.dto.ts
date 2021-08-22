@@ -1,3 +1,5 @@
+import { Band } from '../../bands/schemas/band.schema';
+
 export class CreateIdolDto {
   readonly stageName: string;
   readonly fullName: string;
@@ -5,4 +7,5 @@ export class CreateIdolDto {
   readonly koreanStageName: string;
   readonly dateOfBirth: Date;
   readonly gender: string;
+  readonly bands: Band[];
 }

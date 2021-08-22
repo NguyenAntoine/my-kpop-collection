@@ -10,7 +10,7 @@ async function createBand(db, bands) {
     newBand.name = band.name;
     newBand.koreanName = band.koreanName;
     newBand.company = band.company;
-    newBand.actived = band.active;
+    newBand.stillActive = band.active;
 
     const dateParts = band.dateOfDebut.split('/');
     newBand.dateOfDebut = new Date(
@@ -31,14 +31,7 @@ export const up = async () => {
   await createBand(db, girlsBands);
 };
 
-async function deleteBand(db, bands) {
-  for (const band of bands) {
-    await db.collection('bands').deleteOne({ name: band.name });
-  }
-}
-
 export const down = async () => {
   const db = await getDb();
-  await deleteBand(db, girlsBands);
-  await deleteBand(db, boysBands);
+  await db.collection('bands').deleteMany();
 };

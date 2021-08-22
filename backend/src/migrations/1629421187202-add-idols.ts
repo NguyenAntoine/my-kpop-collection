@@ -1,5 +1,4 @@
 import { Idol } from '../idols/schemas/idol.schema';
-import { DBRef, ObjectId } from 'mongodb';
 import * as idols from '../../../database/kpop_idols.json';
 
 import { getDb } from '../migrations-utils/db';
@@ -20,23 +19,34 @@ export const up = async () => {
       +dateParts[1] - 1,
       +dateParts[0],
     );
+
     if (newIdol) {
       const addedIdol = await db.collection('idols').insertOne(newIdol);
-      await db.collection('bands').updateOne(
-        { name: idol.group },
-        {
-          $push: {
-            idols: new DBRef('idols', new ObjectId(addedIdol.insertedId)),
-          },
-        },
-      );
+
+      const band = await db.collection('bands').findOne({ name: idol.group });
+
+      if (band) {
+        await db
+          .collection('idols')
+          .updateOne(
+            { _id: addedIdol.insertedId },
+            { $push: { bands: band._id } },
+            { new: true, useFindAndModify: false },
+          );
+      }
+
+      await db
+        .collection('bands')
+        .updateOne(
+          { name: idol.group },
+          { $push: { idols: addedIdol.insertedId } },
+          { new: true, useFindAndModify: false },
+        );
     }
   }
 };
 
 export const down = async () => {
   const db = await getDb();
-  for (const idol of idols) {
-    await db.collection('idols').deleteMany();
-  }
+  await db.collection('idols').deleteMany();
 };

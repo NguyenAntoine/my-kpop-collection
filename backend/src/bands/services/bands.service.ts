@@ -10,11 +10,16 @@ export class BandsService {
   constructor(@InjectModel(Band.name) private bandModel: Model<BandDocument>) {}
 
   async list(): Promise<Band[]> {
-    return this.bandModel.find().exec();
+    // TODO : Cannot populate idols into bands array
+    return this.bandModel.find().populate('idols').populate('albums').exec();
   }
 
   async get(bandId: string): Promise<Band> {
-    return this.bandModel.findById(bandId).exec();
+    return this.bandModel
+      .findById(bandId)
+      .populate('idols')
+      .populate('albums')
+      .exec();
   }
 
   async create(createBandDto: CreateBandDto): Promise<Band> {
