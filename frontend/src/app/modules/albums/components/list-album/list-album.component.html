@@ -1,0 +1,42 @@
+<div class="page-header" data-parallax="true" style="background-image: url('./assets/img/albums.jpg');">
+    <div class="filter"></div>
+    <div class="container">
+        <div class="motto text-center">
+            <h1>Liste des albums</h1>
+        </div>
+    </div>
+</div>
+<div class="main">
+    <div class="section text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 mr-auto ml-auto">
+                    <table class="table table-striped">
+                        <thead>
+                        <tr>
+                            <th scope="col">Nom de scène</th>
+                            <th scope="col">Nom de scène coréen</th>
+                            <th scope="col">Nom</th>
+                            <th scope="col">Nom coréen</th>
+                            <th scope="col">Date de naissance</th>
+                            <th scope="col">Genre</th>
+                            <th scope="col">Groupe</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr *ngFor="let idol of idols">
+                            <td>{{ idol.stageName }}</td>
+                            <td>{{ idol.koreanName }}</td>
+                            <td>{{ idol.fullName }}</td>
+                            <td>{{ idol.koreanName }}</td>
+                            <td>{{ idol.dateOfBirth | date: 'dd/MM/yyyy' }}</td>
+                            <td>{{ idol.gender | gender }}</td>
+                            <td>{{ idol.group }}</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

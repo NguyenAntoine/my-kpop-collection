@@ -1,0 +1,38 @@
+<div class="page-header" data-parallax="true" style="background-image: url('./assets/img/bands.jpg');">
+    <div class="filter"></div>
+    <div class="container">
+        <div class="motto text-center">
+            <h1>Liste des groupes</h1>
+        </div>
+    </div>
+</div>
+<div class="main">
+    <div class="section text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 mr-auto ml-auto">
+                    <table class="table table-striped">
+                        <thead>
+                        <tr>
+                            <th scope="col">Nom</th>
+                            <th scope="col">Nom coréen</th>
+                            <th scope="col">Entreprise</th>
+                            <th scope="col">Date de début</th>
+                            <th scope="col">Actif</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr *ngFor="let band of bands">
+                            <td>{{ band.name }}</td>
+                            <td>{{ band.koreanName }}</td>
+                            <td>{{ band.company }}</td>
+                            <td>{{ band.dateOfDebut | date: 'dd/MM/yyyy' }}</td>
+                            <td>{{ band.actived | active }}</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
