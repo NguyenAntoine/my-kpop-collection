@@ -21,12 +21,12 @@ export const up = async () => {
       +dateParts[0],
     );
     if (newIdol) {
-      const addedIdol = await db.collection('Idol').insertOne(newIdol);
-      await db.collection('Band').updateOne(
+      const addedIdol = await db.collection('idols').insertOne(newIdol);
+      await db.collection('bands').updateOne(
         { name: idol.group },
         {
           $push: {
-            idols: new DBRef('Idol', new ObjectId(addedIdol.insertedId)),
+            idols: new DBRef('idols', new ObjectId(addedIdol.insertedId)),
           },
         },
       );
@@ -37,6 +37,6 @@ export const up = async () => {
 export const down = async () => {
   const db = await getDb();
   for (const idol of idols) {
-    await db.collection('Idol').deleteOne({ name: idol.fullName });
+    await db.collection('idols').deleteMany();
   }
 };

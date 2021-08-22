@@ -10,6 +10,7 @@ async function createBand(db, bands) {
     newBand.name = band.name;
     newBand.koreanName = band.koreanName;
     newBand.company = band.company;
+    newBand.actived = band.active;
 
     const dateParts = band.dateOfDebut.split('/');
     newBand.dateOfDebut = new Date(
@@ -17,9 +18,9 @@ async function createBand(db, bands) {
       +dateParts[1] - 1,
       +dateParts[0],
     );
-    newBand.active = band.active;
+
     if (newBand) {
-      await db.collection('Band').insertOne(newBand);
+      await db.collection('bands').insertOne(newBand);
     }
   }
 }
@@ -32,7 +33,7 @@ export const up = async () => {
 
 async function deleteBand(db, bands) {
   for (const band of bands) {
-    await db.collection('Band').deleteOne({ name: band.name });
+    await db.collection('bands').deleteOne({ name: band.name });
   }
 }
 

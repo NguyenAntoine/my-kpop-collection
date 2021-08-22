@@ -18,13 +18,13 @@ export class Band {
   company: string;
 
   @Prop()
-  active: boolean;
-
-  @Prop()
   dateOfDebut: Date;
 
   @Prop()
   dateOfEnd: Date;
+
+  @Prop({ required: true })
+  actived: string;
 
   @Prop({ type: [{ type: mongoose.Schema.Types.ObjectId, ref: 'Album' }] })
   albums: Album[];
